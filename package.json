@@ -2,7 +2,7 @@
   "name": "parcel-template",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-template",
+  "homepage": "https://OlhaLushina.github.io/parcel-template",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/*.html",
