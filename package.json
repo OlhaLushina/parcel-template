@@ -10,7 +10,6 @@
   },
   "keywords": [],
   "author": "Olha Lushina <olga.lushina.ua@gmail.com>",
-  "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.14.4",
     "parcel": "^2.14.4",
